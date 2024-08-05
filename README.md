@@ -3,7 +3,7 @@
 
 I'm a Data Scientist with a background in computational Chemistry. 🎓🧪
 
-Throughout my academic journey, I've applied machine learning to investigate molecular properties, contributing to drug design research. 🧬💊
+Throughout my academic journey, I've applied machine learning to investigate molecular properties, contributing to drug design research. 💊
 
 
 ## Skills 💼
