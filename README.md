@@ -1,4 +1,5 @@
-# Hi there 👋, Sara is here
+<h1 align="center">Hi there, Sara is here</h1>
+
 
 I'm a Data Scientist with a background in computational Chemistry. 🎓🧪
 
