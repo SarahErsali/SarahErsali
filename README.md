@@ -8,7 +8,7 @@ Throughout my academic journey, I've applied machine learning to investigate mol
 ## Skills 💼
 
 - **Python** ![Python Logo](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **SQL** ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+- **SQL** ![SQL Logo]#(https://img.shields.io/badge/-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 - **Machine Learning** 🤖
 - **Deep Learning** 🧠
 
