@@ -14,4 +14,8 @@ Throughout my academic journey, I've applied machine learning to investigate mol
 - **Deep Learning** 🧠
 
 Feel free to explore my projects and connect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sara-e-3a758a54/)
+
+<a href="https://www.linkedin.com/in/your-profile-id" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 40px; height: 40px;"/>
+</a>
+
