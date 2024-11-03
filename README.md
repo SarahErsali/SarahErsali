@@ -11,7 +11,7 @@ As I continue to evolve in my career, I am excited to expand my expertise beyond
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sara-e-3a758a54/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-e-3a758a54/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sara-e-3a758a54/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-ersali-the-scientist/" height="30" width="40" /></a>
 <a href="https://kaggle.com/saraersali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saraersali" height="30" width="40" /></a>
 </p>
 
