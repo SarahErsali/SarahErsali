@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Sara</h1>
 
 
-I'm a Data Scientist with a background in Computational Chemistry.
+I'm a Data Scientist holding a Ph.D. in Cheminformatic.
 Throughout my academic journey, I've applied machine learning to investigate molecular properties, contributing to drug design research.
 As I continue to evolve in my career, I am excited to expand my expertise beyond biology and chemistry to include high-demand fields such as artificial intelligence, finance, and advanced healthcare solutions. By leveraging data science, I aim to drive innovation and create impactful solutions across these diverse and rapidly evolving domains, including predictive health analytics, and medical imaging.
 
